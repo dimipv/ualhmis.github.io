@@ -24,7 +24,7 @@ id | Nombre estudiante  | Equipo | Usuario GitHub | Repositorio de Web de equipo
 18 | Jose Luis Portillo Martín | Equipo 5 | https://github.com/JLPortillo-UAL | 
 19 | Alejandro Tomás Soto Meca | Equipo 2 | https://github.com/AlejandroTSoto |
 20 | David Montesinos | | mdmontesinos | 
-21 | | | | 
+21 | Diego Miguel Payán Verdegay | Equipo 14 | https://github.com/dimipv | 
 22 | Adrián Rodríguez Manzano | Equipo 3 | https://github.com/adrianrm00 | 
 23 | Jaime David García Ortiz | Equipo 3 | https://github.com/jgo962 | 
 24 | | | | 
